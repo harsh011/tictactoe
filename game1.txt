@@ -1,6 +1,6 @@
 #include<conio.h>
 #include<stdio.h>
-#include<iostream>
+ #include<iostream>
 
 
 char a[9][5][5];
